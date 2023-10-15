@@ -1,5 +1,9 @@
 # PassGen-Pro
 
+<p align="center">
+  <img src="app/src/main/res/drawable/logo.png" height="300px" width="300px" alt="Logo">
+</p>
+
 A simple Password Generator app that generates strong and secure passwords for your online accounts.Generate strong and secure passwords effortlessly with the Password Generator App. This simple yet powerful tool allows you to create complex passwords tailored to your needs. You can specify the length of the password and choose from various character sets to meet the requirements of different websites and services. With the ability to copy passwords to the clipboard in just one click, enhancing your online security has never been easier.Safeguard your online accounts and improve your digital security with the Password Generator App.
 
 
